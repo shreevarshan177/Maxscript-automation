@@ -24,7 +24,7 @@ Note: The original implementation was developed as a part of the professional wo
 
 ## Demo
 
-(Add a GIF or video link if available)
+https://github.com/shreevarshan177/Maxscript-automation/issues/1#issue-4761149722
 
 ## Future Improvements
 - Add more automation options
